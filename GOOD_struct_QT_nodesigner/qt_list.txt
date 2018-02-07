@@ -1,0 +1,471 @@
+hqtfc-01 (1.0.0)                                                                  - just a sample of distribution
+odoo8-addon-stock-product-location-sorted-by-qty (8.0.1.0.0.99.dev6)              - In the update wizard of quantities for a product, sort the stock location by quantity
+odoo9-addon-mrp-mto-with-stock (9.0.1.0.0.99.dev4)                                - Fix Manufacturing orders to pull from stock until qty is zero, and then create a procurement for them.
+odoo10-addon-event-registration-multi-qty (10.0.1.0.0.99.dev1)                    - Allow registration grouped by quantities
+odoo10-addon-website-sale-select-qty (10.0.1.0.0)                                 - Support "quantity" URL parameter on shop product pages
+odoo9-addon-purchase-stock-picking-return-invoicing-open-qty (9.0.1.0.0.99.dev1)  - This a glue module to combine two modules
+odoo10-addon-purchase-open-qty (10.0.1.0.0.99.dev5)                               - Allows to identify the purchase orders that have quantities pending to invoice or to receive.
+odoo10-addon-stock-quant-reserved-qty-uom (10.0.1.0.0.99.dev2)                    - Stock Quant Reserved Qty UoM
+odoo10-addon-mrp-mto-with-stock (10.0.1.0.0.99.dev2)                              - Fix Manufacturing orders to pull from stock until qty is zero, and then create a procurement for them.
+odoo10-addon-stock-change-qty-reason (10.0.1.0.0.99.dev2)                         - Stock Quantity Change Reason
+odoo9-addon-stock-quant-reserved-qty-uom (9.0.1.0.0.99.dev3)                      - Stock Quant Reserved Qty UoM
+odoo9-addon-website-sale-qty (9.0.1.0.1.99.dev1)                                  - Add price tier radio buttons to product pages in website shop
+odoo8-addon-stock-change-qty-reason (8.0.1.0.0.99.dev8)                           - Stock Quantity Change Reason
+odoo9-addon-purchase-open-qty (9.0.1.0.2.99.dev2)                                 - Allows to identify the purchase orders that have quantities pending to invoice or to receive.
+aiomqtt (0.1.0)                                                                   - An AsyncIO asynchronous wrapper around paho-mqtt.
+aiqterminal (0.1.1)                                                               - Interactive shell for administrating a AIQ8 platform server
+qth-alias (0.1.2)                                                                 - Utility for creating aliases of Qth properties and events.
+altf2 (1.0.3)                                                                     - Simple program launcher (Alt-F2 handler). Requires PyQt4
+ankita (3.2.3)                                                                    - Well designed MS-Paint like paint program written in PyQt4
+AnyQt (0.0.8)                                                                     - PyQt4/PyQt5 compatibility layer.
+aoisora (0.0.2)                                                                   - Lightweight Bluetooth manager for Bluez5 with PyQt4 UI
+pytest-qt-app (1.0.1)                                                             - QT app fixture for py.test
+appbase (0.3.4)                                                                   - appbase is the foundation for a pyQt based application including:
+
+* save, load, autosave
+* session management
+* fullscreen with F11
+* close-dialog
+* system tray control
+shallow-appify (0.1.1)                                                            - Converts any executable to a non-self-contained mac app bundle which depends on system libraries. Other converters often have problems when complex dependencies (e.g. PyQt) must be included. shallow-appify avoids these problems by referencing present system libraries.
+arwn (1.2.0)                                                                      - Collect 433Mhz weather sensor data and publish to mqtt
+asgimqtt (0.2.0)                                                                  - Interface between MQTT broker and ASGI
+aspic (2017.1.20)                                                                 - Asyncio and Qt versions of SpecClient for Python 3.6
+astro-kittens (0.3.3)                                                             - Collection of Python utility functions for purr, tigger, meqtrees and others
+tws-async (0.5.7)                                                                 - Use the Interactive Brokers API (IBAPI) asynchonouslywith asyncio or PyQt5
+auto-resizing-text-edit (0.1.0)                                                   - A Qt widget based on QTextEdit, that changes its height automatically to accommodate the text
+BcdaQWidgets (2017.3.0)                                                           - PyEpics-aware PyQt widgets for the APS.
+ipython-beautifulsoup (0.3)                                                       - Custom rendering of beautifulsoup objects       in IPython notebook and qtconsole
+biodocks (0.10.11)                                                                - Pyqtgraph based widgets for image analysis
+blnuhr (0.1.11)                                                                   - Python & Qt rendition of Berlin's quantity didactics clock
+zwave-mqtt-bridge (0.0.2)                                                         - Bridge Z-Wave to MQTT
+homemate-bridge (0.1.1)                                                           - Orvibo "Homemate" to MQTT bridge
+eilat-web-browser (1.5.5)                                                         - QtWebKit based web browser
+quartz-browser (2.1.0)                                                            - Fast Lightweight web browser written in PyQt5
+pyqtgraph-for-dubble-bubble (2016.11.2)                                           - Scientific Graphics and GUI Library for Python
+pyqt5-macos-built (5.5.0)                                                         - This package installs a prebuilt version of PyQt5 for Mac OS
+Camelot (13.04.13-gpl-pyqt)                                                       - A python GUI framework on top of Sqlalchemy and Qt, inspired by the Django admin interface. Start building desktop applications at warp speed, simply by adding some additional information to you model definition.
+cayenne-mqtt (1.0.1)                                                              - Cayenne MQTT Python Library
+cemu (0.2.1)                                                                      - Cemu is a basic assembly Qt-based IDE, to disassemble, assemble and emulate any assembly code (currently supports x86-{32,64}, ARM, AARCH64, MIPS, SPARC).
+chconsole (0.1.22)                                                                - Jupyter/Qt-based Chat Console
+cheesemaker (0.3.8)                                                               - A minimalistic image viewer using Python3 and PyQt5
+cheqlist (0.3.1)                                                                  - A simple Qt checklist.
+chqtest (0.1.0)                                                                   - this is a test pro
+mqtt-cli-subscriber (0.1.0)                                                       - Subscribe to messages from an MQTT broker using a command
+direqt-cli (0.1.3)                                                                - Command line interface for Direqt Ads API
+SFLvault-client-qt (0.7.8.2)                                                      - Networked credentials store and authentication manager - Qt Client
+CodeReview (1.0.0)                                                                - CodeReview is a Python 3 / Qt5 GUI to perform code review on files and Git repositories.
+conda-manager (0.4.0)                                                             - A stand alone PyQt/PySide GUI application for managing conda packages and environments.
+ConfigObj-GUI (0.1)                                                               - A PyQt based library providing a GUI for configuring ConfigObj enabled applications
+ConfigObj-Qt (0.1)                                                                - Save and load ConfigObj configuration data using PyQt. This enables configuration to be stored in a way that is appropriate for the platform where the application is running.
+connectable (1.2.0)                                                               - A simple, yet powerful, implementation of QTs signal / slots pattern for Python3
+coopr.age (1.1.4)                                                                 - A QT interface for Coopr that supports the formulation and analysis of Pyomo models
+CowMQ (0.1.3)                                                                     - The CowMQ is a simple client-server protocol over MQTT.
+crypt_me (0.140)                                                                  - Caesar cipher with qt GUI
+cs20-gui (0.9.3)                                                                  - "Inspired by EasyGUI, designed for PyQt"
+cs20-easygui (0.9.4)                                                              - "Inspired by EasyGUI, designed for PyQt"
+cuteshop (0.3.1)                                                                  - Package manager for Qt projects.
+dallasMQTT (0.1.0)                                                                - Publish readings from Dallas 1 wire sensors to MQTT
+qt-dataflow (0.2.3)                                                               - A base for custom visual programming enviroments
+defconQt (0.5.4)                                                                  - A set of Qt objects for use in defcon applications.
+latticegraph-designer (1.0a1)                                                     - PyQt based GUI tool which allows to visualize, design and export the lattice graph models.
+rpi-dht22-mqtt (0.0.2)                                                            - Send temperature and humidity from DHT22 sensor to mqtt broker
+digimat.mqtt (0.1.13)                                                             - Digimat MQTT
+direqt (0.1.5)                                                                    - Client library for Direqt Ads API
+pyqt-distutils (0.7.3)                                                            - A set of distutils extension for building Qt ui files
+distutils_ui (0.1.2)                                                              - A distutils build extension for PyQt{4,5} applications
+django-jqtouch (0.1)                                                              - A Django Application for creating jQTouch websites
+django-jquery-qtip (2.1.1)                                                        - jQuery qTip (http://qtip2.com) packaged in a django app to speed up new applications and deployment.
+django-qtools (1.0)                                                               - Write DRY, composable filtering logic for data queries and instance methods.
+dlock13 (0.4.1)                                                                   - Python API for MQTT-based doorlocks
+dmtoqt (1.0.0)                                                                    - A tool for converting EDM displays to QT
+dooblr (2.1.0)                                                                    - Duplicate data received over MQTT to InfluxDB
+doorstopqt (0.1)                                                                  - 
+dottorrent-gui (1.3.9)                                                            - An advanced GUI torrent file creator with batch functionality, powered by PyQt and dottorrent
+dronin-pyqtgraph (20160825.3)                                                     - dRonin fork of scientific Graphics and GUI Library for Python
+easygui_qt (0.9.2)                                                                - "Inspired by EasyGUI, designed for PyQt"
+easymodel (0.5.0)                                                                 - Qt Models and Views made easy with general purpose Model and a Widget delegate.
+easymqtt (0.1.0)                                                                  - Ridiculously simple MQTT wrapper library
+EditObj2 (0.5.1)                                                                  - A Java-Bean-like dialog box generator for Python objects, compatible with Gtk 2, Tk, Qt and Qtopia
+Editobj3 (0.1)                                                                    - An automatic dialog box generator for Python objects, supporting multiple graphical backends: Qt, GTK and HTML (single-user or with multiple users).
+editorium (0.0.0.13)                                                              - Creates a Qt Editor for arbitrary Python Objects using Reflection.
+EEGNavigator (0.1.0.dev1)                                                         - QT-based interface to visualize EDF/BDF electroencephalographic recordings using the Spyndle package.
+emadb (1.0.9)                                                                     - A package to collect measurements published by EMA using MQTT and a SQlite database
+ems (0.2.25)                                                                      - Small collection of classes to build model centric applications with python and Qt
+enamlx (0.2.5)                                                                    - Additional Qt Widgets for Enaml
+ENCODEQueryTools (0.1.1)                                                          - Module to query ENCODE ChIP-Seq TF Significance Tool (http://encodeqt.simple-encode.org) using API calls.
+eQTLseq (17.5.28)                                                                 - Hierarchical probabilistic models for multiple gene/variant associations based on NGS data
+eqtools (1.3.1)                                                                   - Python tools for magnetic equilibria in tokamak plasmas
+etm_qt (2.3.27)                                                                   - event and task manager
+Eupompos (0.1.1)                                                                  - GPLv3/Python3/CLI very naive [Python|C++]Qt parser to get informations about Qt signals
+EuroPython2006_PyQt4_Examples (1.0)                                               - PyQt4 examples from a talk at EuroPython 2006.
+eyeditor (0.0.1)                                                                  - EYE - A Qt-based scriptable text editor
+facerecog (0.0.1)                                                                 - PyQt OpenCV Face Recognition Widget
+FancyQt (1.0.1)                                                                   - Modern stylesheets for Qt 4.x.
+fancywidgets (0.2.5)                                                              - Various QT-based widgets for every day usage.
+faqt (0.0.1)                                                                      - Base for implementing DataFAQs FAqT Evaluation Services.
+fbs (0.0.6)                                                                       - Easily create cross-platform desktop applications with PyQt
+fgmk (0.7.3)                                                                      - A PyQt5 Maker to generate a RPG Javascript game.
+pyqt-finance (0.0.1)                                                              - Custom QWidget for display historical stock data
+PyQt-Fit (1.3.4)                                                                  - Parametric and non-parametric regression, with plotting and testing methods.
+Flask-MQTT (0.0.11)                                                               - Flask extension for the MQTT protocol
+fluid-nexus (0.3.1)                                                               - PyQt4 application that enables one to share messages and data independent of centralized data networks
+QUI-for-MPlayer (snapshot_9-14-2011)                                              - PyQt frontend for MPlayer
+qt5reactor-fork (0.2)                                                             - Twisted Qt Integration
+formlayout (1.1.0)                                                                - The most easy way to create Qt form dialogs and widgets with Python
+pyobjc-framework-QTKit (4.1)                                                      - Wrappers for the framework QTKit on macOS
+wallaby-frontend-qt (0.2.45)                                                      - Integration of Qt into wallaby.
+funq-server (1.1.4)                                                               - write FUNctional tests for Qt applications (server)
+funq (1.1.4)                                                                      - write FUNctional tests for Qt applications (client)
+rfm12-mqtt-gateway (0.1.0)                                                        - Two-way RFM12 to MQTT gateway
+qth-gc (0.1.2)                                                                    - Deletes Qth properties and other retained MQTT messages with which no client is affiliated.
+germqtt (0.1.0)                                                                   - Publish Gerrit Stream on MQTT
+Getting-Started-With-PyQt4 (1 (first draft))                                      - An introduction to PyQt4 for Python programmers.
+gitbuster (2.1b8)                                                                 - Python Qt4 frontend for git filter-branch and git cherry-pick.
+gospel-pdf (1.3.5)                                                                - Poppler based fast PDF Viewer written in PyQt4
+pi-mqtt-gpio (0.1.6)                                                              - Expose the Raspberry Pi GPIO pins (and/or external IO modules such as
+qt-graph-helpers (0.1.3)                                                          - orangeqt ploting library
+Graphtiny (0.0.8)                                                                 - A Python library that lets you display graph in streaming, simply and easily. Especially suitable for scientific use. It Is an abstraction layer for the PyQtGraph library
+pytc-gui (1.2.2)                                                                  - PyQt5 GUI for pytc API
+hackedit (1.0a2)                                                                  - The hackable IDE, built with Python3, PyQt5 and pyQode
+hassdevice (0.1.4)                                                                - A library for building MQTT devices for HomeAssistant
+hbmqtt (0.9.1)                                                                    - MQTT client/brocker using Python 3.4 asyncio library
+hektor (0.1)                                                                      - A QTI-XML to JSON converter for humans
+python-pyqt5-hexview (0.4.3)                                                      - PyQt5 hex viewer widget.
+htmlPy (2.0.3)                                                                    - A wrapper around PySide's QtWebKit library which helps developer create beautiful UI with HTML5, CSS and Javascript for standalone applications.
+idacute (1.0.1)                                                                   - Cross-Qt compatibility module for IDAPython
+iiqtools (0.3.2)                                                                  - Scripts to help debug and support InsightIQ
+image-pyqt (0.0.2.0.0)                                                            - An Image Widget for display OpenCV Mat image
+imgkit (0.1.8)                                                                    - Wkhtmltopdf python wrapper to convert html to image using the webkit rendering engine and qt
+imqtt (0.2.7)                                                                     - Iteractive MQTT packet manipulation shell based on IPython
+imzml2isa-qt (0.1.6)                                                              - A PyQt interface for mzml2isa parser.
+pyqt5-installer (5.7.0)                                                           - This package installs an script to install PyQt5
+interactiveTutorial (0.1.1)                                                       - An interactive tutorial viewer and editor based on PyQt4.
+intermake (1.0.0.48)                                                              - Automated run-time generation of user interfaces from Python code - command-line-args, CLI, python-interactive, python-scripted, graphical (Qt GUI)
+introspeqt (0.0.2)                                                                - Simple introspector for PySide applications.
+invento_iot_event_bus (1.0.1.7)                                                   - Iot invento mqtt event bus
+iot_jumpway_mqtt_serial (0.0.1)                                                   - IoT JumpWay Python MQTT Serial Client
+iotlabmqtt (0.6.2)                                                                - Provide access to IoT-LAB experiments as MQTT agents
+ipbec (0.1.9)                                                                     - A PyQT application analyze absorption images of Bose-Einstein condensates
+iqtk (0.0.3)                                                                      - Reproducible biological data science.
+itchatui (0.0.0)                                                                  - A wechat ui based on qt
+jlib (0.1.0)                                                                      - PyQt4 library for writing XMPP applications
+js.jquery_qtip (1.0.0)                                                            - Fanstatic packaging of jquery.qTip
+JsQt (0.5.0)                                                                      - A tool to compile Qt Designer's .ui files to qooxdoo code.
+jupyter_qtconsole_colorschemes (0.8.1)                                            - Color Schemes for Jupyter Qt Console
+jzqt (0.2.0)                                                                      - Python tools library
+keenmqtt (0.0.10)                                                                 - An MQTT client which will send configured MQTT messages to keen IO as events for later analysis.
+ktiny (1.0.0-beta1)                                                               - KTiny is a Qt/KDE based client for TinyERP
+LibQuickUI (1.3)                                                                  - UI Extension to PyQt
+qth-postgres-log (0.1.1)                                                          - A simple logging system for Qth.
+logReader (0.7.6)                                                                 - PyQt5 programm for parse and reading any log file.
+logview (0.1)                                                                     - A Qt-based log viewer for Python's standard logging package
+losant-mqtt (1.0.1)                                                               - An MQTT client for Losant
+lpmqtt (0.0.1)                                                                    - Publish Launchpad Event Stream on MQTT
+LQTAGridPkg (0.2)                                                                 - Package with python version of LQTAgrid
+LQTAgridPy (0.4)                                                                  - Python version of LQTAgrid
+qth-ls (0.1.0)                                                                    - Library for watching paths in the Qth meta/ls/ tree.
+m2x-mqtt (0.4.0)                                                                  - M2X Python API client
+MadQt (0.0.6)                                                                     - GUI for accelerator simulations using MAD-X.
+make_qt_ui (0.1.0)                                                                - Scripts to simplify conversion of *.ui and *.qrc files to Python
+maxcube-mqtt (0.0.4)                                                              - Control your eQ-3/ELV MAX! Cube with MQTT
+md-mqtt (0.0.1)                                                                   - Publish Linux MD RAID status to MQTT
+meqtrees_cattery (1.5.1)                                                          - MeqTrees-based frameworks for simulation and calibration of radio interferometers
+rpi-power-meter-mqtt (0.0.1)                                                      - Send current power consumption of a power meters to mqtt broker
+micropython-umqtt.robust (1.0)                                                    - Lightweight MQTT client for MicroPython ("robust" version).
+micropython-umqtt.simple (1.3.4)                                                  - Lightweight MQTT client for MicroPython.
+midi2mqtt (0.0.3)                                                                 - Receive MIDI signals and forward them to a mqtt broker.
+mochad_dispatch (0.1.9)                                                           - mochad_dispatch is a daemon written in Python that translates mochad's tcp-based events to MQTT messages
+ModernGL.PyQt5 (0.1.1)                                                            - UNKNOWN
+moskit (0.0.1)                                                                    - Qt WebKit API
+mosquittoChat (1.0.1)                                                             - A Chat Server based on MQTT protocol using Mosquitto (broker a C implementation of MQTT),                websocket, sockjs javascript library on client(browser) side, sockjs-tornado, tornado,                and paho-mqtt (mqtt python client library)
+mqreceive (0.1.2)                                                                 - MQTT receive wrapper library
+mqspeak (0.2.1)                                                                   - MQTT bridge
+mqt (0.1.1)                                                                       - QA Tools for Odoo maintainers (MQT)
+mqtag (0.6.6)                                                                     - mqtag command
+mqtify (0.3.3)                                                                    - Bridge between your Unix box and an MQTT server
+nodewox-mqtt (1.2)                                                                - Paho MQTT derived client that using M2Crypto TLS
+mqtt-randompub (0.1)                                                              - Tool for generating MQTT messages on various topics
+noolite-mtrf-mqtt (0.1.1)                                                         - NooLite MTRF serial port to MQTT messages
+mqtt-statsd (0.0.1)                                                               - A script to publish MQTT metrics into statsd
+noolite-mqtt-webserver (0.1.2)                                                    - Web server for NooLite.
+xively-mqtt (0.1dev)                                                              - A port of Xively library that uses MQTT instead of HTTP as data transport
+play-mqtt (0.0.2)                                                                 - pytest-play support for MQTT
+rpi-switch-mqtt (0.0.3)                                                           - Use mqtt to control relays connected to raspberry
+rpi-temperature-mqtt (0.0.3)                                                      - Send temperature from DS18B20 sensors to mqtt broker
+twisted-mqtt (0.3.4)                                                              - MQTT client protocol package for Twisted
+mqtt-watchdir (2.2)                                                               - Recursively watch a directory for modifications and publish file content to an MQTT broker
+ppmessage-mqtt (1.0.11)                                                           - A Python mqtt server, originally developed at PPMessage.
+paho-mqtt (1.3.1)                                                                 - MQTT version 3.1.1 client class
+mqtt2influxdb (0.1.0)                                                             - MQTT to InfluxDB
+mqttclient (0.0.2)                                                                - MQTT Client for Python
+mqtthandler (0.1.3)                                                               - A Python logging handler using MQTT protocol
+robotframework-mqttlibrary (0.5.0)                                                - MQTT Keyword Library Robot Framework
+MqttSqliteLogger (1.0)                                                            - Simple Sqlite logger for MQTT Brokers.
+msgflo (0.4.1)                                                                    - Simple message queueing for AMQP and MQTT
+Sonance-Music-Player (0.1.Alpha)                                                  - This is a music player using PyQt5
+myqtx (0.1)                                                                       - test lib
+mzml2isa-qt (0.3.4)                                                               - A PyQt interface for mzml2isa parser.
+nmrml2isa-qt (0.1.3)                                                              - A PyQt interface for nmrml2isa parser.
+nwqt4 (0.2)                                                                       - A new-wallpaper.org client
+nyamuk (0.2.0)                                                                    - Python MQTT Client Library
+nyuki (0.52.0)                                                                    - Allowing the creation of independent unit to deal with stream processing while exposing an MQTT and REST API.
+ochlero (0.2.0)                                                                   - systemd log monitor that publishes to an MQTT bus on specific events
+onkyoqt (0.3)                                                                     - QT GUI for onkyo
+OpenGLContext_qt (1.0.0a3)                                                        - PyQt4/PySide context for OpenGLContext
+OQToolsUI (1.0.5)                                                                 - UI for openquake
+osc2mqtt (0.2b2)                                                                  - An OSC to MQTT bridge based on pyliblo and paho-mqtt.
+panama (0.58)                                                                     - a novel probabilistic model to account for confounding factors in eQTL studies
+pandas-qt (0.2.0)                                                                 - Utilities to use pandas (the data analysis / manipulation library for Python) with Qt.
+panqt (0.2.2)                                                                     - Utilities to use pandas (the data analysis / manipulation library for Python) with Qt.
+qrc-pathlib (1.0.2)                                                               - Extension for pathlib that implements Path and PurePath for Qt Resources System.
+pdb4qt (0.2)                                                                      - A set_trace() that works with PyQt4
+pdfkit (0.6.1)                                                                    - Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt
+phantompy (0.10)                                                                  - Headless WebKit engine for python build on top of Qt5 and Webkit
+pickpeak (0.0.10)                                                                 - PickPeak: a PyQtGraph-based tool for fast peak selections of spectrum ploats.
+picup (0.5.1)                                                                     - PyQt based Picflash upload tool
+pilight2mqtt (0.1.0)                                                              - Translate pilight to mqtt.
+PingPung (0.1.14)                                                                 - Python3/QT4 Multiplatform Ping Application
+roscreate-qt-pkg (0.1.4)                                                          - Creates qt package templates for RoS
+plantgateway (0.4.2)                                                              - Bluetooth to mqtt gateway for Xiaomi Mi plant sensors
+qtile-plasma (1.5.1)                                                              - A flexible, tree-based layout for Qtile
+plone.app.jqtools (1.0)                                                           - JQuery Tools Integration for Plone
+python-poppler-qt5 (0.24.2)                                                       - A Python binding to Poppler-Qt5
+python-poppler-qt4 (0.24.0)                                                       - A Python binding to Poppler-Qt4
+PopupBubble (0.0.9)                                                               - Cross-platform desktop notification using Qt
+pqaut (0.4.1)                                                                     - Automation for BDD testing PyQt apps
+scida-pro (1.7.1)                                                                 - Solar cell data analysis using python modules pandas, matplotlib and pyqt
+projex_xqt (1.1)                                                                  - UNKNOWN
+projexui (2015.0.21)                                                              - Library of Qt extension widgets.
+protobuf-qtypes (0.3.6)                                                           - qtypes data structures
+psqtraviscontainer (0.0.7)                                                        - Polysquare Travis-CI Container Root
+pyblish-qml (1.7.1)                                                               - Frontend for Pyblish written in PyQt5/QML
+PyBOMBS-QtGUI (0.1.dev1)                                                          - A meta-package manager to install software from source, or whatever the local package manager is. Designed for easy install of source trees for the GNU Radio project.
+pycalculator (0.1)                                                                - RPN calculator developed in PyQt
+pycante (1.0)                                                                     - The hotest way to deal with PyQt
+PyCon_Italia_2009_PyQt_for_Desktop_and_Embedded_Devices (1.0)                     - Slides from the PyQt for Desktop and Embedded Devices talk at PyCon Italia 2009.
+PyCon_UK_2007_PyQt_and_Qt_Designer (2)                                            - PyQt and Qt Designer examples from PyCon UK 2007.
+pydaqtools (0.2.0)                                                                - Python Data Acquisition Tools
+pydee (0.4.23)                                                                    - Pydee development environment and its PyQt4-based IDE tools: interactive Python shell, Python code editor, workspace (dict/list/string/array editor), doc viewer, history log, environment variables editor, ...
+pydiq (0.2.1)                                                                     - Simple open-source DICOM browser/viewer in Python and Qt4.
+pyee-topics (0.0.13)                                                              - A port of node.js's EventEmitter to python with mqtt topics support.
+pyguisignal (0.0.0.6)                                                             - PyGuiSignal. Generate QT GUI and add missing signal handlers to code file.
+pymqttbench (0.1.1)                                                               - A script to benchmark an MQTT broker
+pynoder (1.0.3)                                                                   - A Python and PyQt5 package for creating a node-based editor.
+PyPaPi (0.8)                                                                      - PyPaPi - Python and Qt Application Framework (PyQt and SQLAlchemy)
+pyqimageview (1.0.0)                                                              - A Qt5 based advanced image view widget
+PyQLogger (1.3.3.0)                                                               - PyQLogger: PyQt Blogger Client
+pyqode-uic (0.1.1)                                                                - pyQode Qt ui compiler
+pyqode.core (2.11.0)                                                              - PyQt/PySide Source Code Editor Widget
+pyqode.designer (1.2)                                                             - Starts Qt Designer with pyqode plugins
+pyqode.qt (2.10.0)                                                                - Shim library that wraps PyQt5, PyQt4 and PySide
+sciplot-pyqt (0.2.1)                                                              - A small matplotlib wrapper/UI for creating                      publication-ready plots, graphs, and images
+pyqt-units (2.0)                                                                  - System of units for PyQt
+pyqt2waybinding (0.3)                                                             - Simple framework for easy 2-way binding with PyQt
+PyQt3D (5.10)                                                                     - Python bindings for the Qt 3D framework
+PyQt4 (4.11.4)                                                                    - Python bindings for the Qt cross platform GUI toolkit
+PyQt4_windows_whl (4.11.4.1)                                                      - Python bindings for the Qt cross platform GUI toolkit
+PyQt4Enhanced (0.1.1)                                                             - Enhanced PyQt4 module
+python-pyqt5-vstructui (0.4.0)                                                    - PyQt5 vstruct hex viewer widget.
+PyQt5 (5.10)                                                                      - Python bindings for the Qt cross platform UI and application toolkit
+  INSTALLED: 5.10 (latest)
+pyqt5-tools (5.9.0.1.2)                                                           - Tools to supplement the official PyQt5 wheels
+pyqt5reactor (0.0.1)                                                              - 
+PyQtChart (5.10)                                                                  - Python bindings for the Qt Charts library
+pyqtconfig (0.8.6)                                                                - An API for keeping PyQt widgets in sync with a config dictionary or QSettings object.
+pyqtconsole (1.1)                                                                 - Light weight python interpreter, easy to embed into Qt applications
+PyQtDataVisualization (5.10)                                                      - Python bindings for the Qt Data Visualization library
+pyqtdeploy (2.1)                                                                  - PyQt Application Deployment Tool
+PyQtdesignerplugins (1.1)                                                         - PyQtdesignerplugins installs Qt Designer plugins for PyQt4
+PyQtdoc (5.5.1)                                                                   - PyQtdoc installs Qt documentation for PyQt
+pyqterm (0.2)                                                                     - Simple terminal/console widget for PyQt4 with vt100 support
+pyqtgraph-qo (0.10.0.2)                                                           - Scientific Graphics and GUI Library for Python (QO internal use version)
+pyqtgraph (0.10.0)                                                                - Scientific Graphics and GUI Library for Python
+pyqtgraph_karl (0.9.8.2)                                                          - Scientific Graphics and GUI Library for Python
+PyQtHierarchicalHeaderView (1.0)                                                  - Python port of HierarchicalHeaderView
+pyqtkeybind (0.0.2)                                                               - Global hotkey bindings for Windows and Linux for PyQt apps
+pyqtool (0.0.6)                                                                   - Search Python code using jQuery-like selectors
+PyQtPurchasing (5.10)                                                             - Python bindings for the Qt Purchasing library
+pyqtrailer (0.6.2)                                                                - PyQt4 application to download trailers from www.apple.com/trailers
+Pyqtree (0.24)                                                                    - A pure Python quad tree spatial index for GIS or rendering usage.
+PyQtRPT (1.5.5)                                                                   - PySide binding for QtRPT, QtRPT is the easy-to-use print report engine written in C++ QtToolkit.
+pyqtspinner (0.1.1)                                                               - A waiting spinner for PyQt5
+pyqttango (0.1.2)                                                                 - Qt resource file containing Tango freedesktop.org icons
+PyQtX (0.1.2)                                                                     - Mimics the structure of PyQt5 but provides PyQt4 as a fallback solution.
+PySide (1.2.4)                                                                    - Python bindings for the Qt cross-platform application and UI framework
+PySignal (1.1.1)                                                                  - Python Signal Library to mimic the Qt Signal system for event driven connections
+pysite (0.3.2)                                                                    - Create simple yet powerful WSGI based sites, utilizing Jinja2 and Qt's TS-file format for localization
+pyssb (0.1.1)                                                                     - PyQT5 Site Specific Browser
+PyStandardPaths (0.3.1)                                                           - Cross-platform standard paths access in Python, based on QStandardPaths in Qt 5.
+pytest-qt (2.3.1)                                                                 - pytest support for PyQt and PySide applications
+python-qt (0.50)                                                                  - Python compatibility wrapper for Qt Bindings (PySide/PyQt4)
+python-qtpip (0.1.5)                                                              - A graphical manager for PyPi plus an OpenSesame extension
+python-qnotifications (1.1.1)                                                     - Pretty in-app notifications for PyQt
+python-qt5 (0.3.0)                                                                - PyQt5
+python-qdatamatrix (0.1.17)                                                       - A PyQt4/PyQt5 widget for viewing and editing a DataMatrix object
+python-qosf (1.2.2)                                                               - Qt widgets for the Open Science Framework
+python_qt_binding (0.2.17)                                                        - This stack provides Python bindings for Qt.
+    There are two providers: pyside and pyqt.  PySide is released under
+    the LGPL.  PyQt is released under the GPL.
+
+    Both the bindings and tools t...
+PythonQwt (0.5.5)                                                                 - Qt plotting widgets for Python
+qalculator (1.4.5)                                                                - A simple Calculator written in PyQt4
+QApplicationTemplate (0.1.0)                                                      - A template for Python and Qt applications
+qarbon (0.1.0)                                                                    - python library for Qt widgets.
+qchviewer (0.1.3)                                                                 - A simple script to directly open standalone Qt Help file by Assistant
+qconcurrency (0.0a1)                                                              - A collection of tools to simplify Concurrency in Qt
+qcrash (0.2.0)                                                                    - A crash report framework for PyQt/PySide applications
+qcustomplot (1.3.1-1)                                                             - QCustomPlot is a Qt C++ widget for plotting and data visualization
+qdarkgraystyle (0.0.3)                                                            - A dark gray stylesheet for PyQt/PySide applications
+QDarkStyle (2.3.1)                                                                - A dark stylesheet for PyQt/PySide applications
+qdatastream (0.1.2)                                                               - pure python implementation for Qt's QDataStream
+qface-qtcpp (1.1)                                                                 - Qt CPP generator based on the QFace library
+qface-qtqml (1.2)                                                                 - Qt QML generator based on the QFace library
+qface-qtro (1.4.1)                                                                - Generator based on the QFace library for QtRemoteObjects
+qgmap (0.2)                                                                       - Google Map widget for PySyde/PyQt4
+QHangups (1.8.1)                                                                  - Alternative client for Google Hangouts written in PyQt
+QLed (1.3.1)                                                                      - An LED Widget for the PyQt4/5 Framework
+qmxgraph (0.1.0)                                                                  - A Qt graph drawing widget using JavaScript's mxGraph library.
+qonda (0.6)                                                                       - A Model-View framework based on Qt Interview
+QOpenVPN (2.0.0)                                                                  - Simple OpenVPN GUI written in PyQt for systemd based distributions
+qPyProfiler (0.3)                                                                 - Graphical interface to python profiler in PyQt
+qrangeslider (0.1.1)                                                              - The QRangeSlider class implements a horizontal PyQt range slider widget.
+qrcgen (0.2)                                                                      - Automated generator of Qt resource files (*.qrc), by recursive scanning of directory trees
+qredis (0.1.7)                                                                    - Qt based Redis GUI
+QRegexEditor (0.5.3)                                                              - PyQt regex editor
+qroundprogressbar (1.0.0)                                                         - PyQt5 port of C++ circular progress bar widget library
+qsignal (1.0.2b1)                                                                 - A QT signal/slot concept for Python with Weakrefs.
+QSpectrumAnalyzer (2.1.0)                                                         - Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, rx_power, rtl_power, hackrf_sweep and other backends)
+qstylizer (0.1.3)                                                                 - Stylesheet Generator for PyQt{4-5}/PySide{1-2}
+toga-qt (0.0.0)                                                                   - A Qt backend for the Toga widget toolkit.
+vincent-qt (0.0.4)                                                                - Vincent in QtWidgets applications
+reprounzip-qt (1.0.11)                                                            - Graphical user interface for reprounzip, using Qt
+Qt.py (1.1.0)                                                                     - Python 2 & 3 compatibility wrapper around all Qt bindings - PySide, PySide2, PyQt4 and PyQt5.
+qt4_gengui (0.0.1)                                                                - A generic GUI built with pyQt4. Used as starting point for new GUI apps.
+qt4ImageLabel (0.1)                                                               - Subclass of QLabel that takes a pixmap and draws it H+V centered and at the correct aspect ratio.
+qt4reactor (1.6)                                                                  - Twisted Qt Integration
+qt5reactor (0.4)                                                                  - Twisted Qt Integration
+qt_backport (0.1.3)                                                               - Makes PySide/PyQt4 code work with Qt5 (using PyQt5)
+qt_binder (0.2)                                                                   - Traits bindings for Qt
+qt_nester (1.0.0)                                                                 - UNKNOWN
+qt_object_viewer (1.0.3)                                                          - qt tree model + tree viewer for nested objects
+qt_widgetstyler (0.1)                                                             - qt_widgetstyler is a small Python class intended to make the dynamic styling of Qt widgets via either PySide or PyQt a simpler task.
+qtaf (5.0.125)                                                                    - 
+qtalchemy (0.8.3)                                                                 - QtAlchemy is a framework for developing GUI database applications using SQLAlchemy and PyQt/PySide.
+QtArgSelector (1.0.0)                                                             - Select program arguments with GUI
+qtarmsim (0.3.16)                                                                 - Qt graphical frontend to ARMSim
+qtask (0.1.3)                                                                     - Utility library for submitting jobs to a cluster (SGE, PBS, etc)
+qtaui (1.0.3)                                                                     - A clone of wx.aui for PySide
+QtAwesome (0.4.4)                                                                 - FontAwesome icons in PyQt and PySide applications
+QtBE (0.2)                                                                        - Graphical user interface for bugtracker "Bugs Everywhere" supporting distributed revision control
+qtbot (0.0.1)                                                                     - Test automation helper for PyQt applications
+qtconsole (4.3.1)                                                                 - Jupyter Qt console
+qtdigest (0.1.1)                                                                  - python implementation of Dunning's T-Digest
+qtdjango (1.5.7.2)                                                                - Library for connection of PyQt application to Django server,
+also reusable app.
+qte (0.6.0)                                                                       - PySide-based GUI toolkit
+qtest (0.1.0)                                                                     - Graphical User Interface for the unittest framework.
+qtfaststart (1.8)                                                                 - Quicktime atom positioning in Python for fast streaming.
+qtgui (0.0.1)                                                                     - python3 pyqt wraper
+qth-registrar (0.2.3)                                                             - A registration server for Qth
+qth (0.6.3)                                                                       - Qb-Than's Home-automation messaging library.
+qThread (0.1.0)                                                                   - Generic stoppable thread
+Qtickle (1.5.9)                                                                   -  A script designed to aid in saving values inside Qt objects. It works by inspecting for object names and then collecting their values. 
+qtico (0.1)                                                                       - Tools for using cross-platform Qt icon themes.
+qtile (0.10.7)                                                                    - A pure-Python tiling window manager.
+qtim_tools (0.1.12)                                                               - A library for medical imaging analysis, with an emphasis on MRI, machine learning, and neuroimaging. Created by the Quantiative Tumor Imaging Lab at the Martinos Center (Harvard-MIT Program in Health, Sciences, and Technology / Massachussets General Hospital)
+qTimer (0.1.4)                                                                    - A small timer program that integrates with various project management solutions
+qtip (5.0.0.dev191)                                                               - Platform Performance Benchmarking
+QtIPy (0.1.11)                                                                    - The data automator! Auto-run IPython notebooks on file triggers. Qt interface.
+qtk (0.1.3)                                                                       - A QuantLib Python ToolKit
+robotframework-qtlibrary (1.0.2)                                                  - QTLibrary for Robot Framework
+qtm (1.0.1)                                                                       - QTM Python SDK
+qtmacs (0.1.0)                                                                    - An Emacs inspired macro framework for Qt.
+qtmodern (0.1.4)                                                                  - Qt Widgets Modern User Interface
+qtMUD (0.0.11)                                                                    - framework for building and running MUDs
+qtnanester (1.3.0)                                                                - A simple printer 
+qtodotxt (1.9.0)                                                                  - Cross Platform todo.txt GUI
+qtodotxt2 (2.0.0a6)                                                               - Cross Platform todo.txt GUI
+qtools (0.1.2)                                                                    - Python tools for Qt.
+qtop (0.9.20161222)                                                               - qtop: the fast text mode way to monitor your cluster's utilization and status;
+      the time has come to take back control of your cluster's scheduling business
+qtopic (0.1.0)                                                                    - Fetches and parses topic related data from Quora.
+Qtornado (3.2.1)                                                                  - a web framework like rails, which based on tornado
+qtpad (0.0.4)                                                                     - Modern and customizable sticky note application
+qtpandas (1.0.3)                                                                  - Utilities to use pandas (the data analysis / manipulation
+QtPDFPrinter (1.0a1)                                                              - Creates PDFs from HTML or Jinja2 Templates using PySide
+qtplot (0.1.1.dev9)                                                               - Data plotting and analysis tool
+QtPy (1.3.1)                                                                      - Provides an abstraction layer on top of the various Qt bindings (PyQt5, PyQt4 and PySide) and additional custom QWidgets.
+QTPyLib (1.5.77)                                                                  - Quantitative Trading Python Library
+qtrequests (0.0.6)                                                                - QtNetwork for humans and robots!
+qtrotate (2.1.7)                                                                  - mp4 rotation angle: read and set
+qtsix (1.1)                                                                       - Compatibility layer for different Qt bindings.
+qtsnbl (2017.11.20.1)                                                             - PyQt widgets for SNBL programs
+QtStuff (0.4)                                                                     - Compatibility layer and helper classes for PySide/PyQt4/PyQt5
+qtTest (0.12)                                                                     - The Quantiacs Toolbox for trading system development
+Qtum (0.1)                                                                        - 
+Qtumblr (0.1)                                                                     - Qt Tumblr Client based on Opentumblr
+qturtle (0.4.0)                                                                   - Python turtle graphics in Qt.
+qtutils (2.0.0)                                                                   - Utilities for providing concurrent access to Qt objects, simplified QSettings storage, and dynamic widget promotion when loading UI files, in Python Qt applications. Also includes the Fugue icon set, by Yusuke Kamiyamane
+QtViews (0.3.0)                                                                   - QtViews Library for Qt Helpers
+qtx (0.2)                                                                         - API client for Quantextive AEX Data Platform
+qtxmldom (0.2.7)                                                                  - PyXML-style API for the qtxml Python bindings
+Quamash (0.6.0)                                                                   - Implementation of the PEP 3156 Event-Loop with Qt.
+quark-sphinx-theme (0.5.0)                                                        - A Sphinx theme designed for QTextBrowser
+quicktikz (0.1.4)                                                                 - a pyqt program which is write for the tikz drawing
+quite (0.1.7)                                                                     - QT UI Extension
+qutebrowser (1.1.1)                                                               - A keyboard-driven, vim-like browser based on PyQt5.
+qutepart (3.1.0)                                                                  - Code editor component for PyQt5
+rapyde (0.1.0)                                                                    - GUI for creation of PySide/PyQt projects.
+RayQT-Timetable (1.0.0)                                                           - A simple printer of my timetable
+repubmqtt (0.2.4)                                                                 - RepubMQTT re-publishes MQTT messages to MQTT, RESTful or logfiles
+robophery (0.2)                                                                   - Python library for interfacing low level hardware sensors and actuators with MQTT bindings.
+rqtest (0.0.6)                                                                    - test tool based on requests
+satin (0.1.0)                                                                     - UI testing library for PyQt
+seqtools (0.8)                                                                    - Tools for sequence and alignment manipulation
+SeqTweet (0.1)                                                                    - Stores arbitrary strings on Twitter by implementing linked         lists.
+setup_qt (1.0.0)                                                                  - Compile Qt resource files, UI files and translations in setup.py
+SiQt (0.2.0a1)                                                                    - A compatibility library for PyQt4, PyQt5 and PySide
+slickpicker (0.2)                                                                 - A small PyQt color picker widget (can be run on its own)
+smqtk (0.7.0)                                                                     - Python toolkit for pluggable algorithms and data structures for multimedia-based machine learning
+Songwrite3 (0.1)                                                                  - Tablature editor with Python 3, Qt 5, EditObj 3, and Timidity
+specguiutils (0.7)                                                                - Library to provide PyQt5 widgets to display spec file information read using spec2nexus.spec file library
+sqt (0.8.0)                                                                       - Command-line tools for the analysis of high-throughput sequencing data
+srmqt4 (0.4)                                                                      - Linux software RAID monitoring tool
+streamplot (1.0)                                                                  - Real Time Plots with pyqtgraph
+Struqtural (0.1)                                                                  - High level SQL data import library.
+techbubbleiotjumpwaymqtt (0.4.0)                                                  - TechBubble Technologies IoT JumpWay MQTT Client for Python
+ted17 (0.2)                                                                       - Useful widgets and functions for pyqt development
+telnetGPIO (0.2)                                                                  - Read Numato LAB GPIO pins and send MQTT messages
+tessflux (0.1.2)                                                                  - MQTT to InfluxDB adapter for the STARS4ALL project
+testqqtest (1)                                                                    - reg
+thingamon (0.2.2)                                                                 - AWS MQTT IoT Thing monitor
+tqTTT (0.0.0)                                                                     - practice
+trinpyqtt (0.4.9)                                                                 - Trinity MQTT Tools for Python clients
+ttnmqtt (0.9.4)                                                                   - small package to make mqtt connection to ttn
+TURP1210 (1.0.0)                                                                  - A PyQt5 GUI framework for heavy vehicle diagnostic adapters using RP1210
+tv_viewer (1.1.3)                                                                 - Python PyQt5 GUI to view tv program details using tvmaze API and SQLite
+vaex-ui (0.1.7)                                                                   - Graphical user interface for vaex based on Qt
+undaqTools (0.2.3)                                                                - undaqTools is the unofficial pythonic interface to the National Advanced Driving Simulator (NADS) Data AcQuisition (DAQ) files (i.e. NADS miniSim datafiles).
+unicodemoticon (3.0.0)                                                            - Emoji App. Like a Color Picker but for Unicode Emoticons. Trayicon with Unicode Emoticons using Python3 Qt5.
+uniqtoken (0.1.3)                                                                 - Simple generator of unique tokens.
+UQToolbox (1.0.3)                                                                 - Tools for Uncertainty Quantification
+vaitk (1.7)                                                                       - VaiTk is a terminal-based graphical toolkit, similar to Qt
+vext.pyqt4 (0.5.20)                                                               - Use system pyqt4 from a virtualenv
+vext.pyqt5 (0.5.21)                                                               - Use system pyqt5 from a virtualenv
+vidi3d (0.2.0)                                                                    - Visualizes 3d NumPy arrays using Matplotlib and PyQt4.
+wallaby (0.1.2)                                                                   - Wallaby is a powerful yet simple framework for building Qt-based, cross-platform applications in PyQt/PySide with a CouchDB/CouchBase and Elasticsearch backend.
+webkit2png (0.8.2)                                                                - Takes snapshot of webpages using Webkit and Qt4
+WebtrendsQT (0.1)                                                                 - Webtrends SQL query tool
+winterstone (0.8.6.7)                                                             - Framework for PyQt application
+wishbone_input_zmqtopic (1.0.0)                                                   - A Wishbone input module to subscribes to one or more ZeroMQ topic sockets
+wishbone_output_zmqtopic (1.0.0)                                                  - A Wishbone output module to push events to one or more ZeroMQ topic subscriber sockets
+world2d (0.2.0)                                                                   - A widget for PyQt5 implementing a 2d world space to draw in.
+WQt (1.0.5)                                                                       - Create, Build, and Run Qt Projects
+wwchartlib (0.1)                                                                  - Collection of Qt chart widgets
+xcirculardichro (0.8rc5)                                                          - Library to provide PyQt5 widgets to display spec file information read using spec2nexus.spec file library
+xivelymqtt (0.1dev)                                                               - A port of Xively library that uses MQTT instead of HTTP as data transport
+xqt (2015.0.4)                                                                    - Wrapper system to handle differences between Python Qt ports.
+yxspkg_songzgif (1.3.2)                                                           - A GUI to make gif based on pyqt5
+zqybxqtest (1.0.1)                                                                - belongs to zqy.
